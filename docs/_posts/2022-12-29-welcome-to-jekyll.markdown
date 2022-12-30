@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Prof. Dev Chakraborty's blog"
 date:   2022-12-29 22:52:38 -0500
 categories: jekyll update
 ---
